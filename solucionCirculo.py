@@ -19,3 +19,4 @@ perimetro, area = calcular_circulo(radio)
 # Mostrar los resultados
 print(f"Perímetro: {perimetro:.1f}")
 print(f"Área: {area:.1f}")
+
